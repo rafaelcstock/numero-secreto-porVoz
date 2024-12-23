@@ -5,4 +5,4 @@
 <h2 align="center"> Link para jogar: https://numero-secreto-por-2ecnagpr9-rafaelcstock.vercel.app/ </h2>
 <br>
 
-![mario](https://github.com/user-attachments/assets/5f42a70f-656c-4d95-a9c6-5d64cb343151)
+![image](https://github.com/rafaelcstock/numero-secreto-porVoz/assets/108905630/e527c524-19c1-4dbb-8c95-03d202c93c27)
